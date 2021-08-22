@@ -1,1 +1,1 @@
-# Veri-Setindeki-Eksik-De-erler
+# Veri-Setindeki-Eksik-Degerler
